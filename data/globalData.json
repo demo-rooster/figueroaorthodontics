@@ -1,77 +1,77 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Figueroa Orthodontics",
+  "domain": "figueroaorthodontics.com",
+  "email": "info@figueroaorthodontics.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(630) 778-7198",
+    "href": "tel:+16307787198",
+    "aria": "6 3 0, 7 7 8, 7 1 9 8"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Naperville",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "1220 Hobson Rd",
+        "suite": "STE 228",
+        "city_state": "Naperville, IL 60540",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(630) 778-7198",
+        "href": "tel:+16307787198"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@figueroaorthodontics.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t64:30 pm"
+          "day": "Mon",
+          "time": "10:00 AM \u00021 5:30 PM"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t64:30 pm"
+          "day": "Tues",
+          "time": "10:00 AM \u00021 6:00 PM"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "10:00 AM \u00021 6:00 PM"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thurs",
+          "time": "10:00 AM \u00021 6:00 PM"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "10:00 AM \u00021 1:00 PM"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=1220+Hobson+Rd+STE+228+Naperville+IL+60540",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Se Habla Espa\u0000f1ol"
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Winnetka",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "1075 Gage Street",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Winnetka, IL 60093",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-87.7446312",
+          "latitude": "42.1169896"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(847) 501-4751",
+        "href": "tel:+18475014751"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@figueroaorthodontics.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1075+Gage+Street+Winnetka+IL+60093",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +94,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "1220 Hobson Rd, STE 228, Naperville, IL 60540",
+        "href": "https://www.google.com/maps/search/?api=1&query=1220+Hobson+Rd+STE+228+Naperville+IL+60540",
+        "label": "View 1220 Hobson Rd, STE 228, Naperville, IL 60540 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(630) 778-7198",
+        "href": "tel:+16307787198",
+        "label": "Call (630) 778-7198",
         "new_window": false
       }
     ],
     "announcement": {
-      "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "icon": "tooth-two-v1",
+      "label": "Se Habla Espa\u0000f1ol",
+      "text": "Se Habla Espa\u0000f1ol \u00021 we welcome Spanish-speaking patients at both locations.",
+      "mobile_text": "Se Habla Espa\u0000f1ol",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Se Habla Espa\u0000f1ol",
+        "text": "Figueroa Orthodontics welcomes Spanish-speaking patients at our Naperville and Winnetka offices. Please call either location to request Spanish-language assistance when scheduling."
       }
     }
   },
@@ -138,7 +138,7 @@
         }
       }
     ],
-    "floating": false
+    "floating": true
   },
   "primary_cta": {
     "label": "Schedule Consultation",
@@ -150,20 +150,32 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/FigOrtho/",
+        "icon": "facebook"
+      },
+      {
+        "href": "http://www.instagram.com/figortho",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://twitter.com/figortho",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://www.yelp.com/biz/figueroa-orthodontics-naperville-2",
+        "icon": "yelp"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Figueroa Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-ALF-1.jpg",
       "webp": "",
-      "alt": "",
+      "alt": "Figueroa Orthodontics",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +183,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
