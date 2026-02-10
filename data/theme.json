@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 126,
+          "red": 17,
           "green": 164,
-          "blue": 194,
+          "blue": 221,
           "alpha": 1
         },
-        "hex": "#7ea4c2",
+        "hex": "#11A4DD",
         "accessibility": {
-          "luminance": 0.35,
-          "luminancePercent": "35%",
+          "luminance": 0.32,
+          "luminancePercent": "32%",
           "recommendedTextColor": "#000000",
-          "contrastRatio": 7.98,
+          "contrastRatio": 7.38,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 97,
-          "green": 134,
-          "blue": 163,
+          "red": 12,
+          "green": 123,
+          "blue": 165,
           "alpha": 1
         },
-        "hex": "#6186a3",
+        "hex": "#0c7ba5",
         "accessibility": {
-          "luminance": 0.22,
-          "luminancePercent": "22%",
-          "recommendedTextColor": "#000000",
-          "contrastRatio": 5.45,
+          "luminance": 0.17,
+          "luminancePercent": "17%",
+          "recommendedTextColor": "#ffffff",
+          "contrastRatio": 4.78,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 255,
+          "green": 0,
+          "blue": 0,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#ff0000",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.21,
+          "luminancePercent": "21%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.25,
+          "wcagRating": "AA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 36,
+          "green": 36,
+          "blue": 36,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#242424",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.02,
+          "luminancePercent": "2%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 15.52,
           "wcagRating": "AAA"
         }
       },
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 97,
-          "green": 134,
-          "blue": 163,
+          "red": 12,
+          "green": 123,
+          "blue": 165,
           "alpha": 1
         },
-        "hex": "#6186a3",
+        "hex": "#0c7ba5",
         "accessibility": {
-          "luminance": 0.22,
-          "luminancePercent": "22%",
-          "recommendedTextColor": "#000000",
-          "contrastRatio": 5.45,
+          "luminance": 0.17,
+          "luminancePercent": "17%",
+          "recommendedTextColor": "#ffffff",
+          "contrastRatio": 4.78,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Arial', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Oswald', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://figueroaorthodontics.com/wp-content/uploads/2022/03/Figueroa-Orthodontics-Logo.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://figueroaorthodontics.com/wp-content/uploads/2022/03/Figueroa-Orthodontics-Logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
+          "hex": "#056eac",
+          "luminosity_percent": 14,
+          "count": 5
+        },
+        {
+          "hex": "#0570ae",
+          "luminosity_percent": 15,
+          "count": 5
+        },
+        {
+          "hex": "#056dab",
+          "luminosity_percent": 14,
+          "count": 5
+        },
+        {
+          "hex": "#0364a4",
+          "luminosity_percent": 12,
+          "count": 4
+        },
+        {
+          "hex": "#0671af",
+          "luminosity_percent": 15,
+          "count": 4
+        },
+        {
+          "hex": "#0775b3",
+          "luminosity_percent": 16,
+          "count": 4
+        },
+        {
+          "hex": "#0674b1",
+          "luminosity_percent": 16,
+          "count": 4
+        },
+        {
+          "hex": "#0572af",
+          "luminosity_percent": 15,
+          "count": 4
+        },
+        {
+          "hex": "#056fad",
+          "luminosity_percent": 14,
+          "count": 4
+        },
+        {
+          "hex": "#0366a6",
+          "luminosity_percent": 12,
           "count": 3
-        },
-        {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
-        },
-        {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#056eac",
+      "avg_luminosity": 14.4,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://figueroaorthodontics.com/wp-content/uploads/2022/03/Figueroa-Orthodontics-Favicon-150x150.png"
   }
 }
