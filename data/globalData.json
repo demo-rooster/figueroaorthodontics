@@ -10,51 +10,51 @@
   },
   "location": [
     {
-      "title": "Naperville",
+      "title": "Naperville Office",
       "address": {
         "street": "1220 Hobson Rd",
         "suite": "STE 228",
         "city_state": "Naperville, IL 60540",
         "coordinates": {
-          "longitude": "",
-          "latitude": ""
+          "longitude": "-88.1137975",
+          "latitude": "41.7536813"
         }
       },
       "phone": {
         "number": "(630) 778-7198",
         "href": "tel:+16307787198"
       },
-      "email": "info@figueroaorthodontics.com",
+      "email": "",
       "hours": [
         {
           "day": "Mon",
-          "time": "10:00 AM \u00021 5:30 PM"
+          "time": "10:00 AM – 5:30 PM"
         },
         {
           "day": "Tues",
-          "time": "10:00 AM \u00021 6:00 PM"
+          "time": "10:00 AM – 6:00 PM"
         },
         {
           "day": "Wed",
-          "time": "10:00 AM \u00021 6:00 PM"
+          "time": "10:00 AM – 6:00 PM"
         },
         {
           "day": "Thurs",
-          "time": "10:00 AM \u00021 6:00 PM"
+          "time": "10:00 AM – 6:00 PM"
         },
         {
           "day": "Fri",
-          "time": "10:00 AM \u00021 1:00 PM"
+          "time": "10:00 AM – 1:00 PM"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1220+Hobson+Rd+STE+228+Naperville+IL+60540",
+        "href": "https://www.google.com/maps/place/Figueroa+Orthodontics,+LLC/@41.753681,-88.113797,14z/data=!4m5!3m4!1s0x0:0x6394f45a20cead6b!8m2!3d41.7536813!4d-88.1137975",
         "label": "Get Directions"
       },
-      "special_note": "Se Habla Espa\u0000f1ol"
+      "special_note": ""
     },
     {
-      "title": "Winnetka",
+      "title": "Winnetka Office",
       "address": {
         "street": "1075 Gage Street",
         "suite": "",
@@ -68,7 +68,7 @@
         "number": "(847) 501-4751",
         "href": "tel:+18475014751"
       },
-      "email": "info@figueroaorthodontics.com",
+      "email": "",
       "hours": [],
       "directions_link": {
         "href": "https://www.google.com/maps/search/?api=1&query=1075+Gage+Street+Winnetka+IL+60093",
@@ -94,10 +94,10 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v2",
-        "text": "1220 Hobson Rd, STE 228, Naperville, IL 60540",
-        "href": "https://www.google.com/maps/search/?api=1&query=1220+Hobson+Rd+STE+228+Naperville+IL+60540",
-        "label": "View 1220 Hobson Rd, STE 228, Naperville, IL 60540 on google maps",
+        "icon": "tooth-two-v1",
+        "text": "1220 Hobson Rd, STE 228, Naperville, IL",
+        "href": "https://www.google.com/maps/place/Figueroa+Orthodontics,+LLC/@41.753681,-88.113797,14z/data=!4m5!3m4!1s0x0:0x6394f45a20cead6b!8m2!3d41.7536813!4d-88.1137975",
+        "label": "View 1220 Hobson Rd, Naperville on google maps",
         "new_window": true
       },
       {
@@ -109,13 +109,13 @@
       }
     ],
     "announcement": {
-      "icon": "tooth-two-v1",
-      "label": "Se Habla Espa\u0000f1ol",
-      "text": "Se Habla Espa\u0000f1ol \u00021 we welcome Spanish-speaking patients at both locations.",
-      "mobile_text": "Se Habla Espa\u0000f1ol",
+      "icon": "tooth-two-v2",
+      "label": "Patient safety updates",
+      "text": "Our offices continue to follow enhanced safety protocols. You may receive a health questionnaire before visits and we offer contactless check-in when requested.",
+      "mobile_text": "Safety updates",
       "modal": {
-        "title": "Se Habla Espa\u0000f1ol",
-        "text": "Figueroa Orthodontics welcomes Spanish-speaking patients at our Naperville and Winnetka offices. Please call either location to request Spanish-language assistance when scheduling."
+        "title": "Patient Safety and Office Procedures",
+        "text": "We prioritize patient safety and comfort. Expect a brief health questionnaire before some appointments, opportunities for contactless check‑in, and staff use of appropriate protective equipment. If you have questions about your visit, please call your office."
       }
     }
   },
@@ -138,7 +138,7 @@
         }
       }
     ],
-    "floating": true
+    "floating": false
   },
   "primary_cta": {
     "label": "Schedule Consultation",
@@ -173,9 +173,9 @@
     "title": "Welcome to Figueroa Orthodontics",
     "text": "",
     "image": {
-      "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-ALF-1.jpg",
+      "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/09/Homepage-Slide-1.jpg",
       "webp": "",
-      "alt": "Figueroa Orthodontics",
+      "alt": "Figueroa Orthodontics office",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -184,7 +184,7 @@
       "forceAlt": "",
       "loading_mask": "",
       "image_selection_hints": {
-        "context_category": "About Hero"
+        "context_category": "Home Hero"
       }
     }
   }
