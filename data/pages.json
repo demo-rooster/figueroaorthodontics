@@ -19,9 +19,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/624562478_Group_of_smiling_multiracial_friends_wearing_color.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/624562478_Group_of_smiling_multiracial_friends_wearing_color.webp",
-        "alt": "Figueroa Orthodontics team and patients, smiling in a modern office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
+        "alt": "Smiling patients and friendly team at Figueroa Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -42,10 +42,13 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Welcome to Figueroa Orthodontics in Winnetka and Naperville, IL",
+      "title": "Welcome to Figueroa Orthodontics",
       "paragraphs": [
         {
-          "text": "Thanks for visiting the website of Figueroa Orthodontics. We proudly provide the Naperville and Winnetka, IL area with friendly and family-oriented orthodontic care. Our practice offers a pleasant and relaxed atmosphere for you to receive orthodontic treatment. In addition, because we understand the importance of building trusting relationships, we spend extra time with you and your family to ensure all your questions and concerns are addressed. You’ll enjoy coming to our practice because we truly care about you, your experience, and your smile!"
+          "text": "Thanks for visiting the website of Figueroa Orthodontics. We proudly provide the Naperville and Winnetka, IL communities with friendly, family-oriented orthodontic care. Our team creates a pleasant, relaxed atmosphere and spends extra time with you so every question is answered and your treatment feels comfortable from day one."
+        },
+        {
+          "text": "You’ll enjoy coming to our practice because we truly care about your experience and your smile. We combine thoughtful, personalized care with modern orthodontic tools to help you achieve predictable, efficient results."
         }
       ],
       "component_options": {
@@ -59,44 +62,15 @@
     },
     {
       "acf_fc_layout": "multi_item_row",
-      "title": "Why Choose Us",
+      "title": "Why Choose Figueroa Orthodontics",
       "items": [
-        {
-          "title": "Personalized Care",
-          "icon": "people",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "All Ages"
-            }
-          },
-          "text": "We spend extra time building trusting relationships so patients and families feel comfortable from the first visit.",
-          "add_button": false,
-          "button": {
-            "button_type": "button",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
         {
           "title": "Advanced Technology",
           "icon": "big-computer-tooth",
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/361445351_Cone_Beam_CT_Scanner_machine_CBCT_3D_xray_for_face.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/361445351_Cone_Beam_CT_Scanner_machine_CBCT_3D_xray_for_face.webp",
-            "alt": "",
+            "alt": "iTero digital scanner and CBCT technology",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -105,10 +79,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Modern Equipment"
+              "context_category": "Experienced"
             }
           },
-          "text": "We use iTero digital impressions, CBCT imaging, and Dental Monitoring to plan and accelerate treatment with precision and comfort.",
+          "text": "We use iTero digital impressions and 3D imaging to plan more accurate, comfortable treatment.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -120,12 +94,41 @@
           }
         },
         {
-          "title": "Modern Options",
+          "title": "Clear, convenient monitoring",
+          "icon": "communication-tooth",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/249970365_close_up_young_asian_man_smiling_with_hand_holding.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/249970365_close_up_young_asian_man_smiling_with_hand_holding.webp",
+            "alt": "Remote Dental Monitoring for clear aligner patients",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Better Care"
+            }
+          },
+          "text": "Remote Dental Monitoring keeps aligner patients on track between visits, saving time and visits.",
+          "add_button": false,
+          "button": {
+            "button_type": "button",
+            "path": "",
+            "hash": "",
+            "href": "",
+            "label": "",
+            "aria": ""
+          }
+        },
+        {
+          "title": "Comfortable braces options",
           "icon": "braces-together",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136250483_Closeup_of_beautiful_girl_on_dental_braces_check_u.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136250483_Closeup_of_beautiful_girl_on_dental_braces_check_u.webp",
+            "alt": "Damon Clear braces provide a low‑profile, comfortable option",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -137,36 +140,7 @@
               "context_category": "Treatments Hero"
             }
           },
-          "text": "From clear aligners and Damon®/Damon Clear™ braces to lingual and surgical solutions, we offer treatment options for every stage of life.",
-          "add_button": false,
-          "button": {
-            "button_type": "button",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Easy New Patients",
-          "icon": "schedule-tooth",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "text": "Online new patient forms, insurance and scheduling support, plus complimentary consultations make getting started simple.",
+          "text": "We offer modern braces systems, including tie‑less options, to help reduce treatment time and discomfort.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -188,7 +162,7 @@
         "hash": "",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "tooth-two-v1",
         "color": "black"
       },
       "component_options": {
@@ -206,29 +180,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet the Doctors",
+      "title": "Meet Dr. Alex Figueroa",
       "paragraphs": [
         {
-          "has_heading": true,
-          "heading": "Dr. Alex Figueroa, DMD",
-          "text": "Dr. Alex Figueroa, DMD, holds an Orthodontics Specialty Certificate and a Certificate in TMJD from the University of Rochester / Eastman Institute. He is active in craniofacial research and enjoys building one‑on‑one relationships with patients and families."
-        },
-        {
-          "has_heading": true,
-          "heading": "Dr. Alvaro Figueroa",
-          "text": "Dr. Alvaro Figueroa brings deep clinical experience and a family background in medicine and dentistry. He focuses on personalized care and long-term results for children, teens, and adults."
-        },
-        {
-          "has_heading": true,
-          "heading": "Dr. Ahmed Shawky",
-          "text": "Dr. Ahmed Shawky emphasizes patient education and strong relationships. He prioritizes clear communication so every patient understands their treatment and feels confident throughout the process."
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Alex Figueroa, DMD, is an experienced orthodontist and partner in the practice. He trained at Case Western Reserve University School of Dental Medicine (DMD) and completed an Orthodontics Specialty Certificate and a Certificate in Temporomandibular Joint Dysfunction at the University of Rochester, Eastman Institute for Oral Health. Dr. Alex enjoys building long-term relationships with patients and creating individualized treatment plans that improve confidence and function."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-ALF-1.jpg",
-        "webp": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-ALF-1.jpg",
-        "alt": "Dr. Alex Figueroa headshot",
+        "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09294-683x1024.jpeg",
+        "webp": "",
+        "alt": "Dr. Alex Figueroa, DMD, orthodontist at Figueroa Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -241,52 +205,158 @@
         }
       },
       "video": {
-        "type": "file",
+        "type": "embedded",
         "src": ""
       },
       "buttons": [
         {
           "button": {
-            "type": "anchor",
+            "type": "nuxt",
             "style": "secondary",
             "label": "Meet Dr. Alex Figueroa",
-            "aria_label": "Meet Dr. Alex Figueroa",
-            "href": "https://figueroaorthodontics.com/doctors/meet-dr-alex-figueroa/",
-            "path": "",
-            "hash": "",
-            "external": true,
+            "aria_label": "Learn about Dr. Alex Figueroa",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
             "include_icon": false,
-            "icon": "tooth-two-v1",
+            "icon": "pencil",
             "color": "black"
           }
-        },
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Alvaro Figueroa",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Alvaro Figueroa is a senior orthodontist with decades of clinical experience and extensive craniofacial work. He earned an Orthodontics Specialty Certificate at the University of Rochester School of Medicine and Dentistry, and a Pediatric Dentistry Specialty Certificate and Master of Science in Oral Health at the University of Illinois at Chicago. Dr. Alvaro completed fellowships at the Center for Craniofacial Anomalies at UIC and at the National Institute of Dental and Craniofacial Research. He has lectured internationally and participates in humanitarian surgical missions."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09236-683x1024.jpeg",
+        "webp": "",
+        "alt": "Dr. Alvaro Figueroa, orthodontist and co-founder of Figueroa Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
         {
           "button": {
-            "type": "anchor",
+            "type": "nuxt",
             "style": "secondary",
             "label": "Meet Dr. Alvaro Figueroa",
-            "aria_label": "Meet Dr. Alvaro Figueroa",
-            "href": "https://figueroaorthodontics.com/doctors/meet-dr-alvaro-figueroa/",
-            "path": "",
-            "hash": "",
-            "external": true,
+            "aria_label": "Learn about Dr. Alvaro Figueroa",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
             "include_icon": false,
-            "icon": "tooth-two-v1",
+            "icon": "pencil",
             "color": "black"
           }
-        },
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Ahmed Shawky",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Ahmed Shawky earned his DDS and MS degrees from the University of Minnesota (DDS ’21, BS/MS in Biomedical Engineering) and completed additional orthodontic training, including an MS in Orthodontics at Marquette University (MS ’24) with an Orthodontics Specialty Certificate. He is focused on patient-centered care, clear communication, and modern techniques to deliver efficient, comfortable treatment."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09313-683x1024.jpeg",
+        "webp": "",
+        "alt": "Dr. Ahmed Shawky, orthodontist at Figueroa Orthodontics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Experienced"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
         {
           "button": {
-            "type": "anchor",
+            "type": "nuxt",
             "style": "secondary",
             "label": "Meet Dr. Ahmed Shawky",
-            "aria_label": "Meet Dr. Ahmed Shawky",
-            "href": "https://figueroaorthodontics.com/doctors/meet-dr-ahmed-shawky/",
-            "path": "",
-            "hash": "",
-            "external": true,
+            "aria_label": "Learn about Dr. Ahmed Shawky",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": false,
             "include_icon": false,
-            "icon": "tooth-two-v1",
+            "icon": "pencil",
             "color": "black"
           }
         }
@@ -314,10 +384,10 @@
     },
     {
       "acf_fc_layout": "block_masonary_grid",
-      "title": "Main Treatments",
+      "title": "Explore Our Treatments",
       "paragraphs": [
         {
-          "text": "From clear aligners to surgical orthodontics, we offer modern treatment options tailored to each patient."
+          "text": "From clear aligners to Damon® braces, we offer modern orthodontic options for children, teens, and adults, backed by digital imaging and personalized treatment planning."
         }
       ],
       "button": {
@@ -340,12 +410,12 @@
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-            "alt": "Clear aligners displayed on a tray at Figueroa Orthodontics",
+            "alt": "Patient holding clear aligners for comfortable orthodontic treatment",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "center",
+            "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
@@ -358,14 +428,14 @@
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-            "alt": "Damon Clear braces on a smiling patient",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.webp",
+            "alt": "Damon Clear braces for a low‑profile aesthetic",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "center",
+            "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
@@ -378,43 +448,43 @@
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
-            "alt": "Teen smiling while wearing clear aligners",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
+            "alt": "Cone beam 3D imaging for advanced orthodontic diagnosis",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "center",
+            "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Teen"
+              "context_category": "Experienced"
             }
           },
-          "title": "Invisalign",
+          "title": "Cone Beam 3D Imaging",
           "path": "/treatments",
-          "hash": "#invisalign"
+          "hash": "#cone-beam-3d-imaging"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/404575189_Maxillomandibular_Advancement_surgery_Medically_ac.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/404575189_Maxillomandibular_Advancement_surgery_Medically_ac.webp",
-            "alt": "Specialized craniofacial orthodontic care imagery",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/22144613_Hispanic_Family.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/22144613_Hispanic_Family.webp",
+            "alt": "Early two‑phase treatment to guide growth in children",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "center",
+            "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Surgery"
+              "context_category": "All Ages"
             }
           },
-          "title": "Craniofacial",
+          "title": "Two‑Phase / Early Treatment",
           "path": "/treatments",
-          "hash": "#craniofacial"
+          "hash": "#two-phase-early-treatment"
         }
       ],
       "component_options": {
@@ -428,7 +498,7 @@
     },
     {
       "acf_fc_layout": "multi_item_testimonial",
-      "title": "What Our Patients Are Saying",
+      "title": "What Our Patients Say",
       "review_text": "Read More Reviews",
       "links": [
         {
@@ -439,20 +509,16 @@
       ],
       "testimonials": [
         {
-          "author": "Ellen",
-          "testimonial": "“After seeing the fantastic results my sister (an adult patient) achieved, I decided to have a consultation with Dr. Figueroa. He clearly explained the process and I am now the proud owner of a beautiful smile.”"
+          "author": "M Soko",
+          "testimonial": "“All 4 of my kids have done or are currently doing their braces with Figueroa Ortho and I highly recommend them! Their orthodontists are very knowledg...”"
         },
         {
-          "author": "Andrea",
-          "testimonial": "“As an adult patient I was worried about how I would look with braces. Dr. Figueroa assured me it would be worth it and he was right. I don't regret a day wearing braces and he was extremely supportive throughout my treatment.”"
+          "author": "Ayden",
+          "testimonial": "“They took amazing care of me and my teeth look perfect after braces. Shoutout to Dr. Shawky for bringing me in after work hours to fix my braces afte...”"
         },
         {
-          "author": "Julie",
-          "testimonial": "“We were overwhelmed when we first came to Dr. Al several years ago. My daughter had an underbite that braces alone couldn’t fix. Dr. Al came up with a comprehensive plan... Now, my daughter is off at college with a normal bite and a BEAUTIFUL smile!”"
-        },
-        {
-          "author": "Scott",
-          "testimonial": "“Our kids love Figueroa Orthodontics. We appreciate the treatment plan, knowing exactly what to expect, along with genuine friendliness...”"
+          "author": "Dominique Birchmeier",
+          "testimonial": "“The team at Figortho was so professional and great with kids. The whole experience was great!”"
         }
       ],
       "component_options": {
@@ -463,11 +529,11 @@
       },
       "has_background": true,
       "background": "bg2",
-      "linear_gradient": ""
+      "linear_gradient": "linear-gradient(0deg, #EFF6F8 0%, rgba(239, 246, 248, 0) 100%)"
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Follow Us on Social Media",
+      "title": "Follow Us",
       "content_block": "social_block",
       "text": "",
       "social_links": [
@@ -480,12 +546,12 @@
           "icon": "instagram"
         },
         {
-          "href": "https://twitter.com/figortho",
-          "icon": "twitter"
-        },
-        {
           "href": "https://www.yelp.com/biz/figueroa-orthodontics-naperville-2",
           "icon": "yelp"
+        },
+        {
+          "href": "https://twitter.com/figortho",
+          "icon": "twitter"
         }
       ],
       "email": "",
@@ -513,14 +579,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/218715428_unity_of_paper_human_symbol.webp",
-        "alt": "Figueroa Orthodontics team smiling in the office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/580149524_Multicultural_young_people_having_fun_walking_on_c.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/580149524_Multicultural_young_people_having_fun_walking_on_c.webp",
+        "alt": "Parents with kids relaxing together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -543,7 +609,7 @@
         "type": "nuxt",
         "style": "primary",
         "label": "Schedule Consultation",
-        "aria_label": "schedule consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -559,18 +625,18 @@
         "hide_component": false
       },
       "background_type": "has_background",
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.webp",
-        "alt": "Patients and family in the Figueroa Orthodontics office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
+        "alt": "Family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -585,13 +651,13 @@
     {
       "seo": {
         "page_title": "Home - Figueroa Orthodontics",
-        "page_description": "Figueroa Orthodontics provides family-centered orthodontic care in Winnetka and Naperville, IL. Clear aligners, Damon® braces, surgical and craniofacial options",
-        "page_keywords": "orthodontics, clear aligners, Damon braces, craniofacial, Naperville, Winnetka, Figueroa Orthodontics",
+        "page_description": "Figueroa Orthodontics provides family-focused orthodontic care in Naperville and Winnetka, IL, offering clear aligners, Damon braces, CBCT imaging, and early‑t4",
+        "page_keywords": "Figueroa Orthodontics, orthodontist Naperville, orthodontist Winnetka, clear aligners, Damon braces, CBCT imaging, early orthodontic treatment",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Home - Figueroa Orthodontics",
-            "description": "Family-oriented orthodontic care in Winnetka and Naperville, IL. Learn about clear aligners, Damon® braces, surgical orthodontics, and our doctors.",
+            "description": "Family-centered orthodontics in Naperville and Winnetka, IL — clear aligners, Damon braces, digital imaging, and individualized care.",
             "image": "https://figueroaorthodontics.com/wp-content/uploads/2022/09/Homepage-Slide-1.jpg"
           }
         }
@@ -614,13 +680,13 @@
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
-        "alt": "Interior view of Figueroa Orthodontics, bright modern reception and treatment area",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/33367648_dentist_office_interior.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/33367648_dentist_office_interior.webp",
+        "alt": "Bright, modern orthodontic office interior with welcoming reception and treatment rooms",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -628,9 +694,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "About Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -644,16 +708,16 @@
       "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "Our caring doctors and the exceptional team are what sets Figueroa Orthodontics apart. We are a friendly family practice with a focus on excellence and detail and our doctors and staff are eager and available to answer your questions. In addition to achieving a fantastic smile, what we find most rewarding is getting to know you and your family."
+          "text": "Our practice is committed to delivering exceptional, patient-centered orthodontic care. We treat orthodontics as an investment in a patient’s health and self-esteem, offering individualized treatment plans, comfortable modern technology, and flexible financial options so families know what to expect before treatment begins."
         },
         {
-          "text": "Figueroa Orthodontics provides state-of-the-art orthodontic treatments tailored to each patient. We offer the Damon System (including Damon Clear), Invisalign<sup>®</sup> and Invisalign<sup>®</sup> Teen, Accelerated Orthodontics, custom lingual braces, and specialized nasoalveolar molding and craniofacial care when needed."
+          "text": "We design workflows to respect patients’ time through conveniences like online forms, digital scanning, and virtual monitoring. That combination of efficiency and thoughtful care helps patients stay on track and feel comfortable every step of the way."
         },
         {
-          "text": "Our practice uses advanced tools like 3D digital radiography, iTero digital impressions, Dental Monitoring, and a paperless, Apple-based workflow to make treatment more predictable, comfortable, and convenient."
+          "text": "We offer a wide range of treatment options, including braces, clear aligners, and specialized craniofacial protocols, to create confident, healthy smiles while matching each plan to the patient’s lifestyle and goals."
         },
         {
-          "text": "Above all, we focus on personalized care: clear communication, gentle techniques, and flexible scheduling so every patient leaves with a healthy, confident smile and a positive experience."
+          "text": "Using advanced technology, gentle techniques, and flexible scheduling, we make quality orthodontic care accessible for families in our community, so every patient leaves with improved function, comfort, and confidence."
         }
       ],
       "component_options": {
@@ -671,7 +735,7 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet the Doctors",
+      "title": "Meet Dr. Alex Figueroa",
       "paragraphs": [],
       "image": {
         "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-ALF-1.jpg",
@@ -684,28 +748,62 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "has_buttons": false,
       "buttons": [],
       "tabs": [
         {
-          "header": "Dr. Alex Figueroa",
+          "header": "Professional",
           "paragraphs": [
             {
-              "text": "Dr. Alex Figueroa finds the best part of orthodontics is building relationships with patients and their families. He approaches each case with attention to detail and a commitment to delivering predictable, comfortable treatment tailored to each patient's needs."
-            },
-            {
-              "text": "Dr. Figueroa is actively involved in orthodontic and craniofacial research as part of the Craniofacial Team at Rush University Medical Center. He presents at professional meetings and pursues continuing education to stay current with advanced techniques."
-            },
-            {
-              "text": "Outside the office he enjoys time with his wife Jessica, their sons Eddie and Sammy, and outdoor activities such as biking, golfing, and skiing. He also enjoys exploring Chicago's lakefront and dining scene."
+              "text": "“The best part about being an orthodontist is interacting with our patients and getting to know each one personally,” says Dr. Alex Figueroa. He focuses on building lasting relationships with patients and their families while delivering evidence-based orthodontic care. He is actively involved in craniofacial treatment efforts and contributes to continuing education and research in the field."
             }
           ],
           "image": {
-            "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-ALF-1.jpg",
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09294-683x1024.jpeg",
+            "webp": "",
+            "alt": "Dr. Alex Figueroa portrait in treatment room",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Alex’s full professional biography is available on his doctor page. His clinical background includes specialty training in orthodontics and ongoing involvement with craniofacial teams and research programs, providing expertise in both routine and complex cases."
+            }
+          ],
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09294-683x1024.jpeg",
+            "webp": "",
+            "alt": "Dr. Alex Figueroa portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Outside the office Dr. Alex enjoys spending time with his wife Jessica and sons Eddie and Sammy. He loves exploring Chicago, biking, golfing, and skiing, and he brings that same warm, energetic approach to caring for patients of all ages."
+            }
+          ],
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09294-683x1024.jpeg",
             "webp": "",
             "alt": "Dr. Alex Figueroa smiling",
             "aria_hidden": false,
@@ -715,28 +813,58 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           }
-        },
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-alex",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Alvaro Figueroa",
+      "paragraphs": [],
+      "image": {
+        "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09236-683x1024.jpeg",
+        "webp": "",
+        "alt": "Dr. Alvaro Figueroa headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
         {
-          "header": "Dr. Alvaro Figueroa",
+          "header": "Professional",
           "paragraphs": [
             {
-              "text": "Dr. Alvaro Figueroa grew up in a family of physicians and dentists and brings a deep sense of service to his specialty. He values helping patients gain confidence through healthy, functional smiles and provides compassionate care for complex needs."
-            },
-            {
-              "text": "Dr. Alvaro is an integral member of several craniofacial teams across Chicago and the suburbs. He regularly treats infants with cleft lip and palate, coordinates surgical cases, and works with a broad network of dental and medical specialists for patients with craniofacial anomalies."
-            },
-            {
-              "text": "He balances a busy clinical life with community involvement and looks forward to giving back through clinical service and education."
+              "text": "Dr. Alvaro Figueroa has practiced orthodontics for decades with a deep commitment to both private practice and craniofacial care. He has travelled and taught internationally through surgical missions and collaborations to expand access to cleft and craniofacial treatment."
             }
           ],
           "image": {
-            "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-AAF-1.jpg",
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09236-683x1024.jpeg",
             "webp": "",
-            "alt": "Dr. Alvaro Figueroa headshot",
+            "alt": "Dr. Alvaro Figueroa portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -744,28 +872,100 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           }
         },
         {
-          "header": "Dr. Ahmed Shawky",
+          "header": "Education",
           "paragraphs": [
             {
-              "text": "Dr. Ahmed Shawky enjoys connecting with patients and their families and places a strong emphasis on patient education so everyone understands the 'why' behind treatment decisions. He brings a thoughtful, evidence-based approach to orthodontic care."
-            },
+              "text": "Dr. Alvaro’s training includes an Orthodontics Specialty Certificate from the University of Rochester School of Medicine and Dentistry, pediatric dentistry and a Master of Science from the University of Illinois at Chicago, plus fellowship training in craniofacial programs. He has published extensively in the cleft and craniofacial field."
+            }
+          ],
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09236-683x1024.jpeg",
+            "webp": "",
+            "alt": "Dr. Alvaro Figueroa portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
             {
-              "text": "Education and credentials: University of Minnesota, Doctor of Dental Surgery (DDS) 2021; Biomedical Engineering BS and MS; Orthodontics Specialty Certificate and Master of Science from Marquette University (MS 2024). He is a member of professional organizations including the AAO, MSO, and ADA."
-            },
+              "text": "Dr. Alvaro enjoys family time with his wife Michele and their sons. He and Michele like tandem biking, golf, tennis, boating, and water skiing. He values long-term relationships with patients, often treating multiple generations of the same family."
+            }
+          ],
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09236-683x1024.jpeg",
+            "webp": "",
+            "alt": "Dr. Alvaro Figueroa smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-alvaro",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Ahmed Shawky",
+      "paragraphs": [],
+      "image": {
+        "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09313-683x1024.jpeg",
+        "webp": "",
+        "alt": "Dr. Ahmed Shawky headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
             {
-              "text": "Outside the office Dr. Shawky enjoys running, cycling, cooking, and community education work, including teaching Arabic. He values teamwork, continuing education, and compassionate patient care."
+              "text": "Dr. Ahmed Shawky brings a strong clinical and academic background to the team and is involved in contemporary orthodontic practice and patient education. He emphasizes clear patient communication and evidence-based care across routine and specialist treatments."
             }
           ],
           "image": {
             "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09313-683x1024.jpeg",
             "webp": "",
-            "alt": "Dr. Ahmed Shawky headshot",
+            "alt": "Dr. Ahmed Shawky portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -773,14 +973,54 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Ahmed trained in dentistry and orthodontics with degrees that include a DDS and advanced orthodontic specialty training. His academic background blends dental and biomedical engineering training with orthodontic specialty studies, and he participates in professional organizations to remain current with best practices."
             }
+          ],
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09313-683x1024.jpeg",
+            "webp": "",
+            "alt": "Dr. Ahmed Shawky education portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Away from work Dr. Ahmed enjoys running, cycling, cooking, and socializing with family and friends. He brings an energetic and approachable manner to patient care and values being part of the local community."
+            }
+          ],
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09313-683x1024.jpeg",
+            "webp": "",
+            "alt": "Dr. Ahmed Shawky smiling",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
           }
         }
       ],
       "component_options": {
-        "hash": "meet-the-doctor",
+        "hash": "meet-dr-ahmed",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -801,13 +1041,13 @@
       "title": "Meet the Team",
       "items": [
         {
-          "name": "Dr. Alex Figueroa",
-          "position": "Orthodontist",
-          "bio": "Dr. Alex Figueroa brings clinical expertise and a patient-first approach to personalized orthodontic care.",
+          "name": "Gino",
+          "position": "Clinical Assistant",
+          "bio": "Gino provides gentle chairside support and ensures patients feel comfortable during treatment at the Naperville office.",
           "image": {
-            "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-ALF-1.jpg",
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2025/06/12.jpg",
             "webp": "",
-            "alt": "Dr. Alex Figueroa",
+            "alt": "Gino, Clinical Assistant",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -815,19 +1055,17 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           }
         },
         {
-          "name": "Dr. Alvaro Figueroa",
-          "position": "Orthodontist",
-          "bio": "Dr. Alvaro Figueroa specializes in craniofacial and cleft care, coordinating complex interdisciplinary treatment plans.",
+          "name": "Jessica",
+          "position": "Clinical Assistant",
+          "bio": "Jessica works between the Naperville and Winnetka offices, focusing on patient comfort and efficient clinical care.",
           "image": {
-            "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-AAF-1.jpg",
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2025/06/8.jpg",
             "webp": "",
-            "alt": "Dr. Alvaro Figueroa",
+            "alt": "Jessica, Clinical Assistant",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -835,19 +1073,17 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           }
         },
         {
-          "name": "Dr. Ahmed Shawky",
-          "position": "Orthodontist",
-          "bio": "Dr. Ahmed Shawky focuses on patient education and modern orthodontic solutions for children, teens, and adults.",
+          "name": "Bree",
+          "position": "Business Manager",
+          "bio": "Bree manages operations across the Winnetka and Naperville offices to keep care running smoothly and patients informed.",
           "image": {
-            "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09313-683x1024.jpeg",
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2025/06/7.jpg",
             "webp": "",
-            "alt": "Dr. Ahmed Shawky",
+            "alt": "Bree, Business Manager",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -855,9 +1091,43 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Maria",
+          "position": "Administrative Coordinator",
+          "bio": "Maria coordinates scheduling and patient communications at the Winnetka office, helping families navigate appointments and forms.",
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2025/06/6.jpg",
+            "webp": "",
+            "alt": "Maria, Administrative Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "name": "Lenise",
+          "position": "Treatment Coordinator",
+          "bio": "Lenise guides families through treatment options and financial planning to make orthodontic care straightforward and affordable.",
+          "image": {
+            "src": "https://figueroaorthodontics.com/wp-content/uploads/2025/06/6.jpg",
+            "webp": "",
+            "alt": "Lenise, Treatment Coordinator",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
           }
         }
       ],
@@ -881,33 +1151,9 @@
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-office-Tour.jpg",
+          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Patient-Forms.jpg",
           "webp": "",
-          "alt": "Office tour — waiting area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Dental-Monitoring.jpg",
-          "webp": "",
-          "alt": "Dental Monitoring treatment area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-First-Visit.jpg",
-          "webp": "",
-          "alt": "First visit and patient forms area",
+          "alt": "Waiting area and patient check-in desk",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -919,7 +1165,7 @@
         {
           "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Damon-Braces.jpg",
           "webp": "",
-          "alt": "Damon braces treatment room",
+          "alt": "Treatment room showing braces setup",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -929,9 +1175,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Adult-Orthodontics.jpg",
+          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Spark-Clear-Aligners.jpg",
           "webp": "",
-          "alt": "Adult orthodontics treatment area",
+          "alt": "Clear aligner treatment setup",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -941,9 +1187,33 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Before-and-After.jpg",
+          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-iTero-Digital-Impressions.jpg",
           "webp": "",
-          "alt": "Before and after results display area",
+          "alt": "iTero digital scanner in use for digital impressions",
+          "aria_hidden": false,
+          "bgColor": "",
+          "imageBackground": false,
+          "addLoader": false,
+          "objectPosition": "",
+          "forceAlt": "",
+          "loading_mask": "#eef6f8"
+        },
+        {
+          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Dental-Monitoring.jpg",
+          "webp": "",
+          "alt": "Workspace showing virtual monitoring tools",
+          "aria_hidden": false,
+          "bgColor": "",
+          "imageBackground": false,
+          "addLoader": false,
+          "objectPosition": "",
+          "forceAlt": "",
+          "loading_mask": "#eef6f8"
+        },
+        {
+          "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Cone-Beam-3D-Technology.jpg",
+          "webp": "",
+          "alt": "Cone beam 3D imaging room",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -967,19 +1237,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Alvaro",
+      "title": "Community & Cleft Care",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Alvaro Figueroa provides specialized care for patients with craniofacial differences and infants born with cleft lip and palate. As a core member of multiple craniofacial teams, he coordinates interdisciplinary care, works closely with surgical partners, and offers compassionate treatment for complex cases and special needs patients."
+          "text": "We take pride in providing specialized craniofacial and cleft-related orthodontic care, including nasoalveolar molding and collaborative treatment with surgical teams. Our doctors contribute to craniofacial programs and mission work, helping expand access to complex care and supporting families through multi-disciplinary treatment pathways."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Headshot-AAF-1.jpg",
-        "webp": "",
-        "alt": "Dr. Alvaro Figueroa smiling",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.webp",
+        "alt": "Graphic representing community support and cleft care",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -987,9 +1257,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -997,7 +1265,7 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "",
+        "hash": "community-cleft-care",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1014,65 +1282,7 @@
       "add_texture": false,
       "large_title": false,
       "title_color": "text",
-      "title_underline_color": "none",
-      "preserve_image": true
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Ahmed Shawky",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Dr. Ahmed Shawky emphasizes clear education and collaborative care. He completed his DDS at the University of Minnesota (2021), holds BS and MS degrees in Biomedical Engineering, and earned his Orthodontics Specialty Certificate and MS from Marquette University (MS 2024). Dr. Shawky is committed to modern, evidence-based orthodontics and is active in professional organizations."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Outside of practice he enjoys running, cycling, cooking, and community education projects, including language instruction. He brings energy and a patient-centered focus to every treatment plan."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://figueroaorthodontics.com/wp-content/uploads/2024/09/DSC09313-683x1024.jpeg",
-        "webp": "",
-        "alt": "Dr. Ahmed Shawky headshot",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none",
-      "preserve_image": true
+      "title_underline_color": "none"
     },
     {
       "acf_fc_layout": "multi_use_banner",
@@ -1085,7 +1295,7 @@
         "type": "nuxt",
         "style": "primary",
         "label": "Schedule Consultation",
-        "aria_label": "schedule consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -1101,18 +1311,18 @@
         "hide_component": false
       },
       "background_type": "has_background",
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
-        "alt": "Patients and family in the Figueroa Orthodontics office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.webp",
+        "alt": "Family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -1127,13 +1337,13 @@
     {
       "seo": {
         "page_title": "About Us | Figueroa Orthodontics",
-        "page_description": "Learn about Figueroa Orthodontics in Naperville and Winnetka: experienced orthodontists, advanced treatments like Invisalign® and Damon, and patient-focused, 3D",
-        "page_keywords": "Figueroa Orthodontics, Orthodontist, Naperville, Winnetka, Invisalign, Damon Braces, Craniofacial",
+        "page_description": "Learn about Figueroa Orthodontics' experienced doctors, craniofacial expertise, modern technology, and patient-focused care in Naperville.",
+        "page_keywords": "Figueroa Orthodontics, orthodontist, craniofacial, Naperville, braces, Invisalign",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "About Us | Figueroa Orthodontics",
-            "description": "Meet the Figueroa Orthodontics team serving Naperville and Winnetka with modern orthodontic care and individualized treatment options.",
+            "description": "Meet the doctors and team at Figueroa Orthodontics. We offer modern orthodontic treatments, cleft and craniofacial care, and convenient new-patient tools.",
             "image": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Why-Choose-Us.jpg"
           }
         }
@@ -1156,13 +1366,13 @@
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "primary"
+        "color": "black"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
-        "alt": "Smiling family welcomed at Lakeshore Orthodontics front desk",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/123911299_Male_hiker_holding_a_map_in_forest.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/123911299_Male_hiker_holding_a_map_in_forest.webp",
+        "alt": "Orthodontic practice reception with smiling staff and patient",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1181,29 +1391,34 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "First Visit Expectations",
+      "title": "What to expect at your first visit",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Your first visit begins with a consultation where the doctor will review your concerns, take records, and recommend a treatment plan. The initial consultation and records, including photos and scans, give us the information needed to diagnose and plan treatment."
+          "text": "Every smile starts with an initial consultation: you will meet our team, learn about orthodontic options, receive a complete initial exam by one of the doctors, and review recommended treatment options. If treatment is recommended, orthodontic records will be taken and a customized treatment presentation with a proposed plan, estimated timeline, and cost will be provided."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "At your appointment we will check you in and complete or confirm new-patient paperwork, conduct a brief medical and health screening with any supplemental consent, take preliminary diagnostic records such as photos and impressions or scans if needed, and review a personalized plan with the doctor including timeline and appliance options."
+          "text": "Please complete the patient information form before your first appointment; you may submit it online or bring a printed, completed copy to your visit."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Please bring completed new patient forms if you printed them, or be prepared to complete forms online before arrival; bring insurance card(s) and photo ID if applicable, and any recent dental x-rays or the name of your dentist so we can request records. For safety, please brush and floss before your visit; you may receive a supplemental health or COVID questionnaire by text before arrival and follow current screening procedures as required."
+          "text": "Scheduling and appointments: once you choose to proceed, the appliance placement appointment typically takes about an hour. Our team will review care instructions and answer questions so you feel confident moving forward."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "COVID and office-safety expectations: please brush and floss prior to your visit. About an hour before your appointment you may receive a text with a link to a Supplemental Consent and Health Questionnaire that must be signed. Arrival procedures may include calling from your car, temperature checks, limiting guests, hand-washing or a hydrogen-peroxide rinse, and additional personal protective equipment used by staff."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
-        "alt": "Father with daughter at reception of dentist's surgery",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211022837_Portrait_Of_Smiling_Dentist_And_Teenage_Girl_In_Cl.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211022837_Portrait_Of_Smiling_Dentist_And_Teenage_Girl_In_Cl.webp",
+        "alt": "Orthodontic consultation area with patient and staff",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1240,13 +1455,13 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Payment, Insurance & Offers",
+      "title": "Payment & Insurance",
       "paragraphs": [
         {
-          "text": "Multiple financing options are available to help fit treatment into your family budget."
+          "text": "We will create a payment plan tailored to your needs and review options during your financial consultation. Payment methods accepted include Visa, MasterCard, Discover, cash, and check. Financing options include no-interest office plans and additional financing through CareCredit."
         },
         {
-          "text": "We offer a complimentary orthodontic consultation; contact us to schedule your free consultation. For details about payment methods, insurance providers accepted, and plan-specific coverage, please contact the office so our staff can verify plan acceptance and review payment options with you."
+          "text": "Insurance: our office will submit claims to your carrier on your behalf; most plans cover a portion of orthodontic care, so please bring your dental insurance card so we can verify coverage. Complimentary consultations are available to review treatment options and costs."
         }
       ],
       "component_options": {
@@ -1264,19 +1479,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "New Patient Forms",
+      "title": "New patient forms",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Please complete the online new patient form before your first appointment when possible. If you prefer, print and bring the completed PDF to your visit."
+          "text": "Before your appointment please complete your new patient forms. You may submit the secure online forms ahead of time or download and bring a printed PDF to the office."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "If you cannot open PDFs, Adobe Reader is available free; bring completed printed forms if you prefer to hand-deliver them."
         }
       ],
       "accordion": [],
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
-        "alt": "Patient filling out orthodontic health history forms online",
+        "alt": "Patient completing new patient forms on a tablet",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1302,7 +1522,7 @@
             "hash": "",
             "external": true,
             "include_icon": false,
-            "icon": "pencil",
+            "icon": "envelope",
             "color": "black"
           }
         },
@@ -1310,7 +1530,7 @@
           "button": {
             "type": "anchor",
             "style": "secondary",
-            "label": "Printable New Patient Form (PDF)",
+            "label": "Printable New Patient Form",
             "aria_label": "printable new patient form",
             "href": "https://figueroaorthodontics.com/wp-content/uploads/2020/02/2019-Oct-New-FigOrtho-Patient-Info-HIPAA-Forms.pdf",
             "path": "",
@@ -1332,7 +1552,7 @@
             "hash": "",
             "external": true,
             "include_icon": false,
-            "icon": "pencil",
+            "icon": "envelope",
             "color": "black"
           }
         },
@@ -1347,7 +1567,7 @@
             "hash": "",
             "external": true,
             "include_icon": false,
-            "icon": "pencil",
+            "icon": "envelope",
             "color": "black"
           }
         }
@@ -1383,7 +1603,7 @@
         "type": "nuxt",
         "style": "primary",
         "label": "Schedule Consultation",
-        "aria_label": "schedule consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -1399,18 +1619,18 @@
         "hide_component": false
       },
       "background_type": "has_background",
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/439148846_Hispanic_teenager_girl_with_dental_braces_wearing.webp",
-        "alt": "Patients and family in the Figueroa Orthodontics office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/145673624_Happy_family_with_kids.webp",
+        "alt": "Family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -1425,14 +1645,14 @@
     {
       "seo": {
         "page_title": "Get Started | Figueroa Orthodontics",
-        "page_description": "Learn what to expect at your first visit to Figueroa Orthodontics. Access new patient forms, payment options, and schedule your free consultation.",
-        "page_keywords": "orthodontics, new patient, forms, consultation, Figueroa Orthodontics, Naperville",
+        "page_description": "Start your orthodontic journey with Figueroa Orthodontics. Learn what to expect at your first visit, access new patient forms, and book a free consultation.",
+        "page_keywords": "orthodontics, new patient, patient forms, payment, Figueroa Orthodontics, consultation",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Get Started | Figueroa Orthodontics",
-            "description": "Learn what to expect at your first visit to Figueroa Orthodontics. Access new patient forms, payment options, and schedule your free consultation.",
-            "image": "https://d2jdm9a19iwpm4.cloudfront.net/get-started/get-started-hero-v2.jpg"
+            "description": "Start your orthodontic journey with Figueroa Orthodontics. Learn what to expect at your first visit, access new patient forms, and book a free consultation.",
+            "image": "https://figueroaorthodontics.com/wp-content/uploads/2022/09/Homepage-Slide-1.jpg"
           }
         }
       }
@@ -1460,7 +1680,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Smiling patients of all ages at the clinic",
+        "alt": "Smiling patients receiving care at the orthodontic practice",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1468,7 +1688,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
       },
       "video": {
         "src": "",
@@ -1479,62 +1701,29 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Early / Interceptive Treatment",
+      "title": "Early Orthodontics",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Early (Phase One) orthodontic care identifies growth and alignment issues while a child’s mouth is still developing, allowing simpler, gentler treatment that can reduce the need for more invasive care later."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "When to start",
-          "paragraphs": [
-            {
-              "text": "We typically evaluate children around ages 6–8. If records show jaw discrepancies, crowding, or bite problems, early appliances and monitoring begin after an initial consultation."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-            "alt": "Young patient receiving early orthodontic intervention",
-            "image_selection_hints": null
-          }
+          "text": "The American Association of Orthodontists recommends a first orthodontic check around age seven. By then a mix of baby and adult teeth helps the orthodontist spot bite and jaw issues early so treatment can be simpler and more effective."
         },
         {
-          "header": "What it corrects",
-          "paragraphs": [
-            {
-              "text": "Early treatment can guide jaw growth, resolve crossbites, address severe crowding that might otherwise need extractions, and improve eruption paths for permanent teeth."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
-            "alt": "Orthodontic evaluation of a young patient",
-            "image_selection_hints": null
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "Early treatment can guide jaw growth, adjust the width of the dental arches, create space for crowded teeth, and sometimes avoid future extractions. It can also address habits like thumb sucking and help improve minor speech concerns."
         },
         {
-          "header": "Typical course",
-          "paragraphs": [
-            {
-              "text": "Phase One uses early appliances as needed, followed by a resting period while permanent teeth erupt, then Phase Two with full braces when appropriate. This staged approach often shortens later treatment."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/45615865_Close_up_of_purple_dental_braces_and_toothbrush_is.webp",
-            "alt": "Family smiling after early orthodontic care",
-            "image_selection_hints": null
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "Watch for signs such as early or late loss of baby teeth, trouble chewing or biting, mouth breathing, persistent thumb or finger sucking, crowded or blocked teeth, or jaws that pop. Contact the practice to schedule an early evaluation."
         }
       ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
-        "alt": "Smiling family enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
+        "alt": "Young patient receiving an early orthodontic evaluation in a bright treatment room",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1542,7 +1731,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Initial Visit"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1550,14 +1741,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "early-interceptive",
+        "hash": "early-orthodontics",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1576,14 +1767,19 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Adults seeking straighter teeth often choose treatment for health, function, or confidence. Modern options are discreet and designed to fit busy schedules and existing dental work."
+          "text": "Orthodontic care is common for adults and can address both health and cosmetic goals. Many adults seek treatment for bite problems, crowded or spaced teeth that raise the risk of decay and gum disease, jaw discomfort, or to finish incomplete treatment from younger years."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Options for adult patients include clear braces, Invisalign<sup>®</sup>, lingual braces that sit behind the teeth, traditional metal braces, and Spark clear aligners. Because jaw growth is complete, some adults may require combined orthodontic and surgical care or periodontal evaluation before or during treatment."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/188272287_Beautiful_smile_and_white_teeth_of_a_young_woman.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/188272287_Beautiful_smile_and_white_teeth_of_a_young_woman.webp",
-        "alt": "Adult orthodontic patient smiling",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
+        "alt": "Adult patient meeting with the orthodontist to discuss treatment options",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1591,7 +1787,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Adult"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1620,42 +1818,57 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Traditional & Ceramic Braces",
-      "paragraphs": [],
+      "title": "About Braces",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Traditional metal braces and ceramic options, including low-profile Damon-style systems, move teeth by applying controlled forces through brackets and archwires. Each appliance type is selected based on the specific tooth movements needed and patient preferences."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Typical treatment after full permanent-teeth eruption averages about 24 months, though individual timelines vary. Records such as models, X-rays, and photos guide appliance selection, estimated duration, and visit frequency. Retainers are provided after braces are removed to stabilize results."
+        }
+      ],
       "accordion": [
         {
-          "header": "Traditional Metal Braces",
+          "header": "How braces work",
           "paragraphs": [
             {
-              "text": "Metal braces remain a durable, cost-effective solution that uses brackets and wires to move teeth predictably. Regular adjustments guide teeth into their final positions."
+              "text": "Brackets and wires apply gentle, continuous pressure to guide teeth into planned positions while the bone remodels around them."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
-            "alt": "Dental checkup with metal braces",
-            "image_selection_hints": null
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
+            "alt": "Close-up of braces on teeth showing brackets and archwire",
+            "image_selection_hints": {
+              "context_category": "Braces"
+            }
           }
         },
         {
-          "header": "Ceramic Braces",
+          "header": "Treatment timeline",
           "paragraphs": [
             {
-              "text": "Ceramic or clear braces blend with your tooth color for a less noticeable appearance while still delivering effective results."
+              "text": "Your orthodontist will map a treatment plan and share a timeline. Many comprehensive cases finish in about two years, with variations depending on complexity and patient compliance."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232786842_tooth_model_with_metal_wire_dental_braces.webp",
-            "alt": "Patient smiling with ceramic braces",
-            "image_selection_hints": null
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175198219_Woman_in_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175198219_Woman_in_braces.webp",
+            "alt": "Patient during two-phase treatment with braces being adjusted",
+            "image_selection_hints": {
+              "context_category": "Teens"
+            }
           }
         }
       ],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136250483_Closeup_of_beautiful_girl_on_dental_braces_check_u.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136250483_Closeup_of_beautiful_girl_on_dental_braces_check_u.webp",
-        "alt": "Two stylish smiling teens taking selfie with braces",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
+        "alt": "Two-phase orthodontic treatment photo showing patients with braces",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1663,7 +1876,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Braces"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1692,24 +1907,29 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup> / Clear Aligners",
+      "title": "Invisalign<sup>®</sup>",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Clear aligners use a series of custom, removable trays to move teeth. Digital scans and 3D planning let us tailor the treatment and show expected stages of movement."
+          "text": "Clear aligner systems such as Invisalign<sup>®</sup> and Spark use a series of custom-made plastic trays that are worn and changed on a set schedule, typically every one to two weeks, to move teeth gently and predictably."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Aligners are discreet, removable for eating and cleaning, and can be paired with remote tools like Dental Monitoring to reduce in-office visits."
+          "text": "Many mild-to-moderate alignment and spacing concerns can be treated with clear aligners. An in-office evaluation with digital scans determines candidacy and creates a 3D treatment plan."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Patients choose clear aligners because they are discreet, removable for eating and oral hygiene, and often more comfortable than brackets. See the practice pages for Spark clear aligners and Invisalign<sup>®</sup> for more details."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.webp",
-        "alt": "Close-up of clear aligners being placed on teeth",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.webp",
+        "alt": "Clear aligner tray being placed on a patient's teeth",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1717,7 +1937,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1751,19 +1973,19 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "When significant skeletal jaw discrepancies exist, orthodontic care may be combined with orthognathic surgery. We coordinate closely with oral and maxillofacial surgeons for planning and recovery."
+          "text": "Surgical orthodontics is recommended for significant skeletal jaw discrepancies that cannot be corrected with braces or aligners alone. In these cases orthodontic preparation, surgical repositioning of the jaws, and postoperative orthodontic finishing are coordinated to achieve both function and facial balance."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "The process includes pre-surgical orthodontic preparation, surgery with specialist partners, and post-surgical finishing to achieve functional and esthetic outcomes."
+          "text": "Care is planned as a team effort between the orthodontist and an oral and maxillofacial surgeon, and often involves craniofacial specialists. The practice works with a network of surgical and dental colleagues to manage complex cases."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/558669347_Braces_on_teeth_lower_and_upper_dental_jaw_model.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/558669347_Braces_on_teeth_lower_and_upper_dental_jaw_model.webp",
-        "alt": "Orthodontic patient receiving surgical consultation",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.webp",
+        "alt": "Orthodontic patient receiving a surgical consultation for jaw correction",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1771,7 +1993,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Surgery"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1800,24 +2024,29 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Retainers & Aftercare",
+      "title": "Retainer Instructions",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Retainers preserve the results of active treatment. We offer removable clear retainers, traditional Hawley options, and bonded fixed retainers depending on case needs."
+          "text": "Retainers keep your new smile stable. After active treatment removable retainers help dental and soft tissues settle, and bonded retainers may be recommended in select cases to maintain alignment long term."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Typical protocols begin with full-time wear, then transition to nights only. Good hygiene and adherence to instructions help ensure long-term stability."
+          "text": "We typically recommend full-time retainer wear for the first year after braces are removed, then nightly wear thereafter. Over time many patients maintain results by wearing retainers at least one night per week."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Care for retainers includes avoiding heat, storing them in a protective case, cleaning gently with a toothbrush and mild soap or denture cleaner, and contacting the office right away if a retainer is lost or damaged, as replacements may incur a charge."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
-        "alt": "Young woman holding an orthodontic retainer",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
+        "alt": "Orthodontic retainers on a tray with care instructions",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1825,7 +2054,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Retainers"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1854,12 +2085,17 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Advanced Orthodontic Technology",
+      "title": "Advanced Technology",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We use modern digital tools—3D scanning, iTero impressions, digital X-rays, and 3D treatment planning—to improve precision, comfort, and predictability across treatments."
+          "text": "The practice uses advanced digital tools to improve precision and comfort. Technologies include 3D digital radiography, iTero digital impressions that avoid messy putty, cone-beam CT for complex diagnosis and surgical planning, and Dental Monitoring for remote check-ins between visits."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "These tools produce accurate records, speed treatment planning, and allow more predictable appliance fabrication and aligner design, which benefits patients at every stage of care."
         }
       ],
       "accordion": [
@@ -1867,49 +2103,39 @@
           "header": "iTero Digital Scanning",
           "paragraphs": [
             {
-              "text": "Fast, radiation-free scans capture accurate 3D images that streamline planning and fit for aligners and appliances."
+              "text": "Fast, radiation-free scans capture precise 3D images for accurate treatment planning and aligner fabrication."
             }
           ],
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.webp",
-            "alt": "iTero digital scanner in use during consultation",
-            "image_selection_hints": null
+            "alt": "iTero digital scanner being used during an orthodontic consultation",
+            "image_selection_hints": {
+              "context_category": "Technology"
+            }
           }
         },
         {
-          "header": "Digital X-Rays",
+          "header": "Dental Monitoring",
           "paragraphs": [
             {
-              "text": "High-resolution digital radiography provides detailed images with lower radiation and improved diagnostic clarity for planning complex cases."
+              "text": "Remote monitoring technology lets the team check progress between visits, often reducing the number of in-office appointments."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
-            "alt": "Digital X-ray equipment used in orthodontic imaging",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "header": "3D Treatment Planning",
-          "paragraphs": [
-            {
-              "text": "Simulation software visualizes tooth movement and surgical outcomes, helping you understand the process and expected stages before treatment begins."
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.webp",
+            "alt": "Advanced orthodontic technology in a modern treatment room",
+            "image_selection_hints": {
+              "context_category": "Technology"
             }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.webp",
-            "alt": "3D treatment planning software showing orthodontic simulation",
-            "image_selection_hints": null
           }
         }
       ],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.webp",
-        "alt": "Modern dentist office interior with advanced technology",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.webp",
+        "alt": "Modern orthodontic office showcasing advanced digital equipment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1917,7 +2143,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "Technology"
+        }
       },
       "video": {
         "type": "embedded",
@@ -1955,7 +2183,7 @@
         "type": "nuxt",
         "style": "primary",
         "label": "Schedule Consultation",
-        "aria_label": "schedule consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -1971,18 +2199,18 @@
         "hide_component": false
       },
       "background_type": "has_background",
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/183240584_Doctor_and_patient_shaking_hands.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/183240584_Doctor_and_patient_shaking_hands.webp",
-        "alt": "Patients and family in the Figueroa Orthodontics office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/111574857_Happy_family_playing_together.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/111574857_Happy_family_playing_together.webp",
+        "alt": "Family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -1997,14 +2225,14 @@
     {
       "seo": {
         "page_title": "Treatments | Figueroa Orthodontics",
-        "page_description": "Explore Figueroa Orthodontics' treatments for children and adults, including braces, Invisalign®, surgical care, retainers and advanced 3D technology.",
-        "page_keywords": "orthodontics, braces, Invisalign, clear aligners, retainers, orthognathic surgery, iTero, Dental Monitoring",
+        "page_description": "Comprehensive orthodontic treatments at Figueroa Orthodontics, including early care, braces, Invisalign®, surgical orthodontics, retainers, and advanced digital",
+        "page_keywords": "orthodontic treatments, braces, Invisalign, early orthodontics, adult orthodontics, retainers, surgical orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "Treatments | Figueroa Orthodontics",
-            "description": "Explore Figueroa Orthodontics' treatments for children and adults, including braces, Invisalign®, surgical care, retainers and advanced 3D technology.",
-            "image": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Why-Choose-Us.jpg"
+            "description": "Comprehensive orthodontic treatments at Figueroa Orthodontics, including early care, braces, Invisalign®, surgical orthodontics, retainers, and advanced digital",
+            "image": "https://figueroaorthodontics.com/wp-content/uploads/2022/10/Homepage-Slide-6.jpg"
           }
         }
       }
@@ -2025,14 +2253,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "phone",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
-        "alt": "Interior of Figueroa Orthodontics reception area with appointment book and phone",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
+        "alt": "Contact Lakeshore Orthodontics reception desk with appointment book and phone",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2051,7 +2279,7 @@
     },
     {
       "acf_fc_layout": "map",
-      "title": "Naperville & Winnetka Locations",
+      "title": "Our Location",
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -2077,15 +2305,15 @@
     },
     {
       "seo": {
-        "page_title": "Contact Figueroa Orthodontics | Naperville & Winnetka Orthodontist",
-        "page_description": "Contact Figueroa Orthodontics in Naperville or Winnetka to request an appointment, ask questions, or get directions. Friendly staff and convenient scheduling.",
-        "page_keywords": "Figueroa Orthodontics contact, Naperville orthodontist, Winnetka orthodontist, appointment request",
+        "page_title": "Contact Figueroa Orthodontics | Naperville & Winnetka",
+        "page_description": "Contact Figueroa Orthodontics in Naperville or Winnetka. Request an appointment, access new-patient forms, and get directions to our offices.",
+        "page_keywords": "Figueroa Orthodontics contact, Naperville orthodontist, Winnetka orthodontist, new patient forms, appointment request",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Contact Figueroa Orthodontics | Naperville & Winnetka Orthodontist",
-            "description": "Contact Figueroa Orthodontics in Naperville or Winnetka to request an appointment, ask questions, or get directions. Friendly staff and convenient scheduling.",
-            "image": "https://d25xczrsvvsqdg.cloudfront.net/chathamorthonc-treatments-hero.jpg"
+            "title": "Contact Figueroa Orthodontics | Naperville & Winnetka",
+            "description": "Contact Figueroa Orthodontics in Naperville or Winnetka. Request an appointment, access new-patient forms, and get directions to our offices.",
+            "image": "https://d2jdm9a19iwpm4.cloudfront.net/contact/contact-hero.jpg"
           }
         }
       }
@@ -2106,14 +2334,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "phone",
+        "icon": "pencil",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
-        "alt": "Interior view of orthodontic practice, patient forms and welcoming reception",
+        "alt": "Bright, modern orthodontic office interior with comfortable seating and warm lighting",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2121,7 +2349,9 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": null
+        "image_selection_hints": {
+          "context_category": "FAQ Hero"
+        }
       },
       "video": {
         "src": "",
@@ -2132,12 +2362,12 @@
     },
     {
       "acf_fc_layout": "accordion",
-      "title": "FAQ",
+      "title": "Common patient questions and answers",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Find answers to common questions about treatment options, appointment scheduling, insurance and payment choices, daily care, and emergency guidance at Figueroa Orthodontics."
+          "text": "Find clear, practical answers to common questions about treatments, insurance and payments, scheduling, and patient forms for Figueroa Orthodontics in Naperville."
         }
       ],
       "accordion": [
@@ -2145,15 +2375,105 @@
           "header": "What treatment options do you offer?",
           "paragraphs": [
             {
-              "text": "We offer a range of options including clear aligners such as Spark and Invisalign<sup>®</sup>, Damon® self‑ligating braces including Damon Clear, lingual braces, traditional metal braces, and specialty care for craniofacial or surgical cases when needed. See our treatment pages for short feature lists and details on each option."
+              "text": "We offer a full range of orthodontic care, including Damon System clear braces, Invisalign<sup>®</sup> and Invisalign<sup>®</sup> Teen, Spark clear aligners, lingual (behind‑the‑tooth) braces, accelerated orthodontics, and custom lingual solutions. We also treat complex cases such as nasoalveolar molding and other craniofacial needs; your treatment plan will be tailored to your goals and anatomy."
+            }
+          ],
+          "has_media": true,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/348192383_Cost_of_healthcare_Piggy_bank_money_box_with_a_med.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/348192383_Cost_of_healthcare_Piggy_bank_money_box_with_a_med.webp",
+            "alt": "Close-up of Damon clear braces on a smiling patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "How does insurance and payment work?",
+          "paragraphs": [
+            {
+              "text": "We submit claims to your insurance carrier on your behalf and will estimate benefits once we have your plan details. Coverage varies by carrier and plan. We accept Visa, MasterCard, Discover, cash, and check, offer in‑office, no‑interest payment plans, and work with CareCredit for additional options. For details on financing and insurance, see our financial information page: https://figueroaorthodontics.com/financial-information/."
             }
           ],
           "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/416851939_Health_care_cost_Doctor_in_surgical_gloves_holding.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/416851939_Health_care_cost_Doctor_in_surgical_gloves_holding.webp",
+            "alt": "",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Better Care"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "How do I schedule, cancel or request an appointment?",
+          "paragraphs": [
+            {
+              "text": "To request a new appointment complete our online form at https://figueroaorthodontics.com/request-an-appointment/. For new patient intake you can fill the secure online form at https://secureonline.co/new-patient-form-figueroaorthodontics/ or print and bring the PDF: https://figueroaorthodontics.com/wp-content/uploads/2020/02/2019-Oct-New-FigOrtho-Patient-Info-HIPAA-Forms.pdf. For cancellations or urgent needs call the office directly."
+            }
+          ],
+          "has_media": true,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
+            "alt": "Patient filling out an appointment request form on a tablet",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Contact Hero"
+            }
+          },
+          "video": {
+            "type": "file",
+            "src": ""
+          }
+        },
+        {
+          "header": "What should I expect during treatment and how do I care for appliances?",
+          "paragraphs": [
+            {
+              "text": "Mild soreness for 3–5 days after placing braces and some lip or cheek irritation for 1–2 weeks is common; we provide orthodontic wax to ease discomfort. Teeth may feel slightly loose during active movement, which is normal. If a wire or band becomes loose, temporarily apply wax or gently tuck the wire back and call for a repair appointment. Follow rubber band and appliance wear instructions closely to keep treatment on track."
+            },
+            {
+              "text": "Retainer care: keep retainers away from heat, store them in their case (keep them away from pets), clean with a toothbrush and mild soap or denture cleaner, and rinse thoroughly. Fixed retainers should be checked during regular dental visits."
+            }
+          ],
+          "has_media": true,
           "media_type": "image",
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Close-up of clear aligners on model teeth",
+            "alt": "Orthodontic tools and braces care materials on a tray",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2161,26 +2481,28 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
+            "image_selection_hints": {
+              "context_category": "Gentle"
+            }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "How long will treatment take and what affects the timeline?",
+          "header": "Are virtual or remote appointments available?",
           "paragraphs": [
             {
-              "text": "Treatment time depends on the complexity of the case, the appliance chosen, patient growth for children, and how closely patients follow instructions such as wearing elastics or aligners. We explain two‑phase treatment and provide a personalized timeline during your initial evaluation."
+              "text": "Yes. We offer Dental Monitoring for patients on clear aligner therapy, which lets you send scans and photos via an app so our doctors can review progress remotely. This service can reduce in‑office visits and there is no extra charge for patients enrolled in Dental Monitoring."
             }
           ],
-          "has_media": false,
+          "has_media": true,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/602809549_Smiling_woman_looking_at_the_camera_Zoom_Profile_p.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/602809549_Smiling_woman_looking_at_the_camera_Zoom_Profile_p.webp",
-            "alt": "Appointment request page hero image showing warm clinic interior",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/247356866_Banner_of_happy_mature_asian_or_hispanic_old_man_l.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/247356866_Banner_of_happy_mature_asian_or_hispanic_old_man_l.webp",
+            "alt": "Patient using a mobile app for virtual orthodontic monitoring",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2188,145 +2510,12 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How do Damon braces differ from traditional braces?",
-          "paragraphs": [
-            {
-              "text": "The Damon System uses self‑ligating, tie‑less brackets that can reduce friction and allow gentler forces. That can mean fewer adjustments for some patients and improved comfort. We outline benefits and treatment expectations on our Damon System page."
+            "image_selection_hints": {
+              "context_category": "Digital Practice"
             }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/108447278_Insurance_agent_discussing_about_dental_insurance.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/108447278_Insurance_agent_discussing_about_dental_insurance.webp",
-            "alt": "Close-up of Damon braces on model teeth",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
           },
           "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Do you accept insurance and what are my payment options?",
-          "paragraphs": [
-            {
-              "text": "We will submit claims to your carrier on your behalf and explain coverage after contacting the insurer. Payment options include major credit cards, cash or check, in‑office no‑interest plans, CareCredit third‑party financing, and low or zero down options for many treatments. Printable forms and the online intake are available below."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-            "alt": "Retainer care instructions visual",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How do I schedule or request an appointment?",
-          "paragraphs": [
-            {
-              "text": "Use our Request an Appointment page to send preferred dates, times, and contact information. If you need to cancel, reschedule, or require urgent attention, contact the office directly. Appointment request page: https://figueroaorthodontics.com/request-an-appointment/"
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/480396465_Portrait_Of_Happy_Arab_Man_Sitting_At_Dentist_Chai.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/480396465_Portrait_Of_Happy_Arab_Man_Sitting_At_Dentist_Chai.webp",
-            "alt": "Request an appointment hero image showing clinic interior",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What should I do for day-to-day care while in treatment?",
-          "paragraphs": [
-            {
-              "text": "Brush and floss after every meal while in treatment. Use a soft‑bristled or powered toothbrush at a 45 degree angle to the gumline, and use a floss threader or orthodontic floss. Keep retainers away from heat, store them in their case, and clean with mild soap or denture cleaner. See our Brushing & Flossing and Retainer Instructions pages for full guidance."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/75923992_Verschiedene_Zahnspangen_retainer.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/75923992_Verschiedene_Zahnspangen_retainer.webp",
-            "alt": "Animated demonstration of orthodontic brushing technique",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What do I do in an orthodontic emergency?",
-          "paragraphs": [
-            {
-              "text": "For appliance issues such as a poking wire or loose band, try short‑term home remedies like orthodontic wax or tucking the wire under the arch and call to schedule a repair. For knocked‑out or displaced teeth, contact your family dentist first. After office hours, call the emergency line at 630-442-0006 for urgent pain or injuries."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/379022117_Nurse_And_Doctor_Team_Meeting_Collaboration.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/379022117_Nurse_And_Doctor_Team_Meeting_Collaboration.webp",
-            "alt": "Emergency care visual for orthodontic injuries",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         }
@@ -2349,7 +2538,7 @@
         "type": "nuxt",
         "style": "primary",
         "label": "Schedule Consultation",
-        "aria_label": "schedule consultation",
+        "aria_label": "Schedule a consultation",
         "href": "",
         "path": "/contact",
         "hash": "#form",
@@ -2365,18 +2554,18 @@
         "hide_component": false
       },
       "background_type": "has_background",
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/141987357_Handsome_male_patient_looking_at_his_beautiful_smi.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/141987357_Handsome_male_patient_looking_at_his_beautiful_smi.webp",
-        "alt": "Patients and family in the Figueroa Orthodontics office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/68999753_Pediatric_dentist_examining_a_little_boys_teeth.webp",
+        "alt": "Family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "center",
+        "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -2391,14 +2580,14 @@
     {
       "seo": {
         "page_title": "FAQ | Figueroa Orthodontics",
-        "page_description": "Answers to common questions about orthodontic treatments, patient forms, scheduling, insurance, and emergency care at Figueroa Orthodontics.",
-        "page_keywords": "orthodontics, braces, Invisalign, Damon, Spark, patient forms, appointments, Figueroa Orthodontics",
+        "page_description": "Answers to common questions about treatments, insurance, scheduling, and patient forms at Figueroa Orthodontics in Naperville.",
+        "page_keywords": "Figueroa Orthodontics, orthodontics, braces, Invisalign, Spark, Damon System, FAQ, Naperville, new patient forms",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
             "title": "FAQ | Figueroa Orthodontics",
-            "description": "Answers to common questions about orthodontic treatments, patient forms, scheduling, insurance, and emergency care at Figueroa Orthodontics.",
-            "image": ""
+            "description": "Answers to common questions about treatments, insurance, scheduling, and patient forms at Figueroa Orthodontics in Naperville.",
+            "image": "https://figueroaorthodontics.com/wp-content/uploads/2022/11/Interior-Photo-Why-Choose-Us.jpg"
           }
         }
       }
